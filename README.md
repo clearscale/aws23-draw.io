@@ -15,7 +15,7 @@
 
 1. Go to https://draw.io
 2. Start a new file.
-3. Choose the "Extras/Configuration" option from the menu.
+3. Choose the `Extras > Configuration` option from the menu.
 4. In the `Configuration` field, paste the content from [this link](https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/web-config.json) and click the `Apply` button.
 5. Refresh the webpage.
 6. Click the `+ More Shapes` button on the left toolbar. Select `AWS23 Icons` and click `Apply`. Now, all AWS icons, categorized by type, are available in the left toolbar.
@@ -23,7 +23,7 @@
 ### Integrating AWS23 Icons into the VS Code extention
 
 1. Install the `Draw.io Integration` extension for VSCode by visiting [this link](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio).
-2. Navigate to `Code > Settings > Settings` from the menu.
+2. Navigate to `Code > Settings... > Settings` from the menu.
 3. In the `Extensions` section, select the `Draw.io Integration` option.
 4. Locate the `Custom Libraries` section and click the `Edit in settings.json` link.
 5. Copy the content from [this link](https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/vscode.json) and paste it as the value for the `hediet.vscode-drawio.customLibraries` entry.
