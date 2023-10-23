@@ -16,7 +16,7 @@
 1. Go to https://draw.io
 2. Start a new file.
 3. Choose the "Extras/Configuration" option from the menu.
-4. In the `Configuration` field, paste the content from https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/web-config.json and click the `Apply` button.
+4. In the `Configuration` field, paste the content from [this link](https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/web-config.json) and click the `Apply` button.
 5. Refresh the webpage.
 6. Click the `+ More Shapes` button on the left toolbar. Select `AWS23 Icons` and click `Apply`. Now, all AWS icons, categorized by type, are available in the left toolbar.
 
