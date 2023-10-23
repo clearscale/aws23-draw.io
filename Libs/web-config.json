@@ -1,0 +1,310 @@
+{
+    "libraries": [
+        {
+            "title": {
+                "main": "AWS23"
+            },
+            "entries": [
+                {
+                    "id": "aws23",
+                    "title": {
+                        "main": "AWS23 Icons"
+                    },
+                    "desc": {
+                        "main": "Collection of AWS icons"
+                    },
+                    "libs": [
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Analytics"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Analytics.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / App Integration"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20App%20Integration.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Blockchain"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Blockchain.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Business Applications"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Business%20Applications.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Cloud Financial Management"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Cloud%20Financial%20Management.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Compute"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Compute.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Containers"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Containers.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Customer Enablement"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Customer%20Enablement.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Database"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Database.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Developer Tools"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Developer%20Tools.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / End User Computing"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20End%20User%20Computing.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Front End Web Mobile"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Front%20End%20Web%20Mobile.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Games"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Games.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / General Icons"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20General%20Icons.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Group"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Group.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Internet of Things"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Internet%20of%20Things.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Machine Learning"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Machine%20Learning.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Management Governance"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Management%20Governance.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Media Services"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Media%20Services.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Migration Transfer"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Migration%20Transfer.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Networking Content Delivery"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Networking%20Content%20Delivery.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Quantum Technologies"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Quantum%20Technologies.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Robotics"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Robotics.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Satellite"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Satellite.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Security Identity Compliance"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Security%20Identity%20Compliance.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Arch / Storage"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Arch%20Storage.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Category"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Category.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Analytics"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Analytics.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Application Integration"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Application%20Integration.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Blockchain"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Blockchain.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Business Applications"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Business%20Applications.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Compute"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Compute.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Containers"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Containers.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Database"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Database.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Developer Tools"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Developer%20Tools.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / End User Computing"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20End%20User%20Computing.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Front End Web Mobile"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Front%20End%20Web%20Mobile.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / General Icons"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20General%20Icons.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / IoT"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20IoT.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Machine Learning"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Machine%20Learning.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Management Governance"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Management%20Governance.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Media Services"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Media%20Services.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Migration Transfer"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Migration%20Transfer.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Networking Content Delivery"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Networking%20Content%20Delivery.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Quantum Technologies"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Quantum%20Technologies.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Robotics"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Robotics.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Security Identity Compliance"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Security%20Identity%20Compliance.xml"
+                        },
+                        {
+                            "title": {
+                                "main": "AWS23 / Res / Storage"
+                            },
+                            "url": "https://raw.githubusercontent.com/clearscale/aws23-draw.io/main/Libs/AWS23%20Res%20Storage.xml"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
